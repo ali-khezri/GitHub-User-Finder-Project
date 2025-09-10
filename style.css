@@ -57,9 +57,6 @@ header p {
 
 #search {
   color: var(--text-light);
-}
-
-input[type="text"] {
   flex: 1;
   padding: 12px 16px;
   font-size: 1rem;
@@ -70,7 +67,7 @@ input[type="text"] {
   outline: none;
 }
 
-input[type="text"]:focus {
+#search:focus {
   box-shadow: 0 0 0 2px var(--primary-color);
 }
 
