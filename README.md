@@ -2,6 +2,7 @@
 
 A small, client-side tool (HTML/CSS/JS) that fetches and displays a GitHub user's profile and latest repositories using the GitHub public API.  
 Built as a lightweight utility / front-end demo — no build tools required.
+
 ---
 
 ## Demo
@@ -23,14 +24,11 @@ https://github-user-finder-project-ali-khezri.netlify.app/
 
 ## 🧭 Project structure
 
-
 .
 ├── index.html       # UI markup
 ├── style.css        # Styling & responsive rules
 ├── script.js        # App logic & GitHub API calls
 └── README.md        # This file
-
-
 
 ---
 
