@@ -35,7 +35,7 @@ https://github-user-finder-project-ali-khezri.netlify.app/
 ## ▶️ How to run (local)
 1. Clone the repo:
    bash
-   git clone https://github.com/ali-khezri/GitHub-User-Finder-Project.git
+   git clone https://github.com/your-username/GitHub-User-Finder-Project.git
 
 2. Open `index.html` in your browser (double-click or `File → Open`).
 
