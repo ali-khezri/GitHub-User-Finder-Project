@@ -24,12 +24,12 @@ https://github-user-finder-project-ali-khezri.netlify.app/
 
 ## 🧭 Project structure
 
-.
+```bash
 ├── index.html       # UI markup
 ├── style.css        # Styling & responsive rules
 ├── script.js        # App logic & GitHub API calls
 └── README.md        # This file
-
+````
 ---
 
 ## ▶️ How to run (local)
